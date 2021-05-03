@@ -1,0 +1,23 @@
+#BlueJ class context
+comment0.target=BabyBirths
+comment1.params=
+comment1.target=void\ printNames()
+comment10.params=fr\ name\ gender
+comment10.target=int\ getTotalBirthsRankedHigher(edu.duke.FileResource,\ java.lang.String,\ java.lang.String)
+comment2.params=fr
+comment2.target=void\ totalBirths(edu.duke.FileResource)
+comment3.params=
+comment3.target=void\ testTotalBirths()
+comment4.params=fr\ name\ gender
+comment4.target=int\ getRank(edu.duke.FileResource,\ java.lang.String,\ java.lang.String)
+comment5.params=fr\ rank\ gender
+comment5.target=java.lang.String\ getName(edu.duke.FileResource,\ int,\ java.lang.String)
+comment6.params=rank\ gender\ girl_names\ rows
+comment6.target=java.lang.String\ getNameAtRank(int,\ java.lang.String,\ int,\ java.util.List)
+comment7.params=name\ fr_old\ fr_new\ gender
+comment7.target=void\ whatIsNameInYear(java.lang.String,\ edu.duke.FileResource,\ edu.duke.FileResource,\ java.lang.String)
+comment8.params=name\ gender
+comment8.target=java.lang.String\ yearOfHighestRank(java.lang.String,\ java.lang.String)
+comment9.params=name\ gender
+comment9.target=java.lang.Double\ getAverageRank(java.lang.String,\ java.lang.String)
+numComments=11
